@@ -8,6 +8,5 @@ List of Projects:
 1. Bubble Sort [MIPS Assembly]
 2. Maze Runner [C]
 3. Linked List [C]
-4. About Me Website [JavaScript, SQL, HTML, CSS]
-
+4. Blackjack [Python]
 
