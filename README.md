@@ -10,4 +10,4 @@ List of Projects:
 3. Linked List [C]
 4. Blackjack [Python]
 5. Draw Stars Lab [Python]
-
+6. Grade Calculator Lab [Python, HTML]
