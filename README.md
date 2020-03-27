@@ -6,6 +6,12 @@ For Computer Science students who stumbled upon this: please do not utilize this
 
 List of Projects:
 1. Bubble Sort [MIPS Assembly]
-2. TBD
-3. TBD
+2. Maze Runner
+  - Makefile
+  - maze_runner.c
+  - mazelib.c
+  - mazelib.h
+  - runner.c
+  - runner.h
+  - test.c
 
