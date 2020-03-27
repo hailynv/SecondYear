@@ -9,4 +9,5 @@ List of Projects:
 2. Maze Runner [C]
 3. Linked List [C]
 4. Blackjack [Python]
+5. Draw Stars Lab [Python]
 
